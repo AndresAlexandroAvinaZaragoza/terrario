@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background: #111;
+}
+
+.nav-link {
+    color: #ccc;
+}
+
+.nav-link:hover {
+    color: #00ff99;
+}
+
+.nav-link.active {
+    color: #00ff99;
+    font-weight: bold;
+}
+
+/* CONTENIDO */
+.content {
+    width: 100%;
+}
+
+/* TARJETAS */
+.card-dark {
+    background: #1c1c1c;
+    border: none;
+    border-radius: 10px;
+}
+
+/* BOTONES */
+.btn-warning {
+    background-color: #ffb68d;
+    border: none;
+}
+
+.btn-warning:hover {
+    background-color: #ff9e6d;
+}
+
+.btn-secondary {
+    background-color: #444;
+    border: none;
+}
