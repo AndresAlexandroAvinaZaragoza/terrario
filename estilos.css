@@ -48,3 +48,16 @@ body {
     background-color: #444;
     border: none;
 }
+
+/* ICONO FOCO */
+
+.bulb-on {
+    font-size: 80px;
+    color: #ffd000;
+    text-shadow: 0 0 20px #ffd000;
+}
+
+.bulb-off {
+    font-size: 80px;
+    color: #555;
+}
