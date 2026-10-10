@@ -14,11 +14,11 @@ const char* password = "Chimuelo1234";
 // MQTT - MOSQUITTO WINDOWS
 // ==========================================
 
-const char* mqtt_server = "10.241.19.84";
-const int mqtt_port = 1883;
+const char* mqtt_server = "";
+const int mqtt_port = ;
 
-const char* mqtt_user = "user_12345678";
-const char* mqtt_password = "12345678";
+const char* mqtt_user = "";
+const char* mqtt_password = "";
 
 const char* topic_sensores =
     "privado/12345678/terrario/sensores";
